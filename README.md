@@ -1,2 +1,2 @@
-# my-portfolio-siste
+# my-portfolio-site
 everything about me
